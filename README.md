@@ -1,58 +1,28 @@
-# 👋 Hi, I’m @achkaou-adil
+# Hi, I'm Adil Achkaou
 
-Welcome to my corner of the internet! I'm a passionate **Full Stack Developer** focused on building smart, robust, and scalable applications across **Web**, **Mobile** .
+I'm a full stack developer based near Casablanca. I build REST APIs with Spring Boot, web front ends with React and mobile apps with Flutter.
 
----
+## What I work with
 
-## 👨‍💻 About Me
+- Backend: Java 17, Spring Boot, Hibernate/JPA, REST APIs, Python (FastAPI, Django)
+- Mobile: Dart, Flutter, Firebase, AdMob, Google Play publishing
+- Frontend: React, TypeScript, JavaScript, HTML, CSS
+- Databases: SQL Server, PostgreSQL, MySQL/MariaDB
+- Desktop: Java, JavaFX, Swing
+- Tools: Git, GitHub, Docker, Nginx, Android Studio, IntelliJ IDEA, VS Code, Postman
 
-- 💼 Currently building full-featured apps using **Java Spring Boot**, **React JS**, **Flutter**, and **FastAPI**.
-- 🧠 Interested in building **e-learning platforms**, **media apps**, and **API-first architectures**.
-- 🔐 I enjoy tackling **security**, **authentication** challenges.
-- 🧰 Tools I use regularly: PostgreSQL, MySQL, Git, Docker, JasperReports, BunnyCDN.
-- 🧑‍🎓 Always learning and experimenting with **clean architecture**, **offline-first apps**, and **custom SDK integrations**.
+## Apps I've published
 
----
+- **AlMustashar**, an AI legal assistant built in Flutter and available on Google Play and apple store 
+- A set of Flutter reader apps for classic Arabic literature, also on Google Play, using Firebase and AdMob
 
-## 🚧 I’m currently working on
+## Background
 
-- 🧾 A **bank wallet app** with a one-wallet-per-user model.
-- 🎓 An **e-learning system** with advanced analytics for students and admin dashboards.
-- 🧪 A **face detection app** using `face-api.js` and `MediaPipe` for verification and photo capture.
-- 📦 Custom **stock and logistics management modules** in an ERP system.
-- 🧾 Generating **PDF and Excel reports** dynamically with JasperReports and Spring Boot.
+I studied Java J2EE development (professional bachelor's degree, FST Settat) after a specialized technician diploma in software development at NTIC 2. I also hold the Thales payShield Professional Engineer certification and AWS Certified Cloud Practitioner, and I'm preparing for AWS Solutions Architect Associate.
 
----
+I speak Arabic, French and English.
 
-## 🤝 I’m looking to collaborate on
+## Contact
 
-- SDKs for **POS payment systems** (e.g. Sunmi, mPOS, SoftPOS)
-- Open source tools for **image/audio/video management**
-- **Flutter-based educational apps** and **clean UI component libraries**
-- Projects involving **data analysis dashboards** using modern stacks
-
----
-
-## 📫 Reach Me At
-
-- ✉️ Email: `adil.achkaou@gmail.com`
-- 🌐 LinkedIn: https://www.linkedin.com/in/adil-achkaou-9306a3198/
-- 🌍 Personal Site / Portfolio: Coming soon...
-
----
-
-## 😄 Pronouns
-He/Him
-
----
-
-## ⚡ Fun fact
-
-> I'm a solo developer, but I treat every project like a team effort: clean commits, well-documented code, and no shortcuts.
-
-Thanks for stopping by — feel free to check out my repos and leave a ⭐ if you find something interesting!
-
----
-<!---
-achkaou-adil/achkaou-adil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
+- Email: adil.achkaou@gmail.com
+- LinkedIn: [adil-achkaou](https://www.linkedin.com/in/adil-achkaou-9306a3198/)
